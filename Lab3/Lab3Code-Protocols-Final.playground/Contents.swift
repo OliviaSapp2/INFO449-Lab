@@ -14,7 +14,7 @@ protocol CourseCode {
 }
 
 // _each is a privte variable used to store the course code
-// the _ implies that is it a private detail not meant to be acessed
+// the _ implies that is it a private detail not meant to be accessed
 // directly from outside classes
 // Basically we are storing name and department directly and code privately
 //I want code to be private so it is harder to manipulate
